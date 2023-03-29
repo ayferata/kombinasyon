@@ -9,6 +9,7 @@ public class main {
         int totalnr=1;
         int kombinasyon;
         Scanner girdi = new Scanner(System.in);
+        
         System.out.print("N eleman sayısını giriniz: ");
         N=girdi.nextInt();
         System.out.print("r eleman sayısını giriniz: ");
